@@ -1,0 +1,42 @@
+# CFRP Bodywork Design & Structural Analysis
+## MSc Dissertation — Autonomous Formula Student Race Car (FS-AI 2026)
+### University of Hertfordshire | 2025-2026
+
+## Overview
+Sole engineer responsible for the complete bodywork 
+structural programme for the Hertfordshire Autonomous 
+Racing (HAR) Formula Student FS-AI 2026 entry.
+
+## Scope of Work
+- Material selection: 2×2 twill woven CFRP face sheets 
+  over PVC foam core sandwich panel
+- Regulation compliance review against FS-AI rules
+- Concept design and weighted decision matrix evaluation
+- ANSYS ACP laminate simulation
+- VARI manufacturing of physical test specimens
+- Physical three-point bending validation
+- Test-simulation result correlation
+
+## Key Results
+- Three-point bending simulation: 200N load, 200mm span
+- Maximum deformation: 4.9×10⁻³ mm
+- Shear-dominated core failure mode confirmed
+- Physical test results correlated with simulation
+- Final bodywork mass: 5-6 kg vs ≤10 kg target
+
+## Tools Used
+- ANSYS ACP (Composite PrepPost) — laminate FEA
+- ANSYS Mechanical — structural validation
+- CATIA V5 & Fusion 360 — concept CAD modelling
+- VARI manufacturing process
+
+## Skills Demonstrated
+- Composite structural analysis
+- Physical test-simulation correlation
+- Design for manufacture (composites)
+- Engineering documentation and reporting
+
+## Results Preview
+![ANSYS ACP Simulation](ansys_acp_results.png)
+![Three Point Bending](three_point_bending.png)
+![Physical Specimen](physical_specimen.png)
